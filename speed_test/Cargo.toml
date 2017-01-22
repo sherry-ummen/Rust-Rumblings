@@ -1,0 +1,11 @@
+[package]
+name = "speed_test"
+version = "0.1.0"
+authors = ["Sherry Ummen <sherry.ummen@napa.fi>"]
+
+[lib]
+name = "mylib"
+crate-type = ["dylib"]
+
+[dependencies]
+

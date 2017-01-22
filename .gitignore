@@ -1,0 +1,5 @@
+speed_test/.idea/*
+*.iml
+*.suo
+ThreadSpeedTestForRust/ThreadSpeedTestForRust/bin/*
+ThreadSpeedTestForRust/ThreadSpeedTestForRust/obj/*
