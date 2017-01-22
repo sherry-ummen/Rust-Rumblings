@@ -1,0 +1,6 @@
+target
+
+Cargo.lock
+.idea/*
+out/*
+figlet.iml
